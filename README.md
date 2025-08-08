@@ -26,7 +26,7 @@ AffirmationBot is a modern, beautifully designed Windows app that delivers posit
 ## 🚀 Get Started
 
 1. **Download the Installer**
-   - [AffirmationBot_Installer.exe](dist/AffirmationBot_Installer.exe)
+   - [AffirmationBot_Installer.exe](https://github.com/Cleveerty/Affirmations-App/releases/download/Launch/AffirmationBot_Installer.exe)
 2. **Run the Installer**
    - Follow the prompts to install AffirmationBot on your PC.
 3. **Launch & Enjoy!**
@@ -75,3 +75,4 @@ Have questions, suggestions, or need help? [Open an issue](https://github.com/yo
 ---
 
 © 2025 AffirmationBot. All rights reserved.
+
